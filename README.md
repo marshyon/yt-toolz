@@ -14,7 +14,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 
 # Usage
 
-```bash
+```
 YouTube Toolz is a CLI tool for getting public YouTube data.
 examples:
 
