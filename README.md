@@ -18,7 +18,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=
 YouTube Toolz is a CLI tool for getting public YouTube data.
 examples:
 
-yp-data get --name "@somechannel"
+yt-toolz get --name "@somechannel"
 
 Usage:
   yt-toolz [command]

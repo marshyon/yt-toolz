@@ -16,7 +16,7 @@ var rootCmd = &cobra.Command{
 	Long: `YouTube Toolz is a CLI tool for getting public YouTube data.
 examples:
 
-yp-data get --name "@somechannel" 
+yt-toolz get --name "@somechannel" 
 
 `,
 	// Uncomment the following line if your bare application
